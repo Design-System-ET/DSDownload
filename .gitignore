@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyInstaller
+/dist/
+/build/
+*.spec
+
+# Flet Desktop temporary files
+flet_desktop/
+
+# VS Code
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
